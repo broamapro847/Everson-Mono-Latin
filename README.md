@@ -199,3 +199,6 @@ This repository serves as the official landing page for Everson Mono Latin. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Everson Mono Latin today!**
+
+---
+**Last updated:** 2026-11-07 23:16:40 UTC
