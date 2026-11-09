@@ -201,4 +201,4 @@ This repository serves as the official landing page for Everson Mono Latin. The 
 **Get the most recent version of Everson Mono Latin today!**
 
 ---
-**Last updated:** 2026-11-09 00:21:52 UTC
+**Last updated:** 2026-11-09 07:28:57 UTC
